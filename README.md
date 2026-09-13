@@ -6,6 +6,7 @@ LAB-1: Register Access
 All below exercises needs to be done via-
 1. Assembly Language
 2. Using CMSIS header
+3. Baremetal
 
 Lab Exercises
 --------------
